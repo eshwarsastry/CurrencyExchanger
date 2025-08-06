@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchanger", "CurrencyExchanger.csproj", "{5201EFA5-9F5D-41FF-8359-D93D5C1CF25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchangerTest", "..\CurrencyExchangerTest\CurrencyExchangerTest.csproj", "{70F7D413-9DCC-4965-AB27-89BE8FB064BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5201EFA5-9F5D-41FF-8359-D93D5C1CF25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5201EFA5-9F5D-41FF-8359-D93D5C1CF25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5201EFA5-9F5D-41FF-8359-D93D5C1CF25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5201EFA5-9F5D-41FF-8359-D93D5C1CF25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F7D413-9DCC-4965-AB27-89BE8FB064BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F7D413-9DCC-4965-AB27-89BE8FB064BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F7D413-9DCC-4965-AB27-89BE8FB064BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F7D413-9DCC-4965-AB27-89BE8FB064BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4AD7B29-D217-467A-84F8-F7ACCC12B52C}
+	EndGlobalSection
+EndGlobal

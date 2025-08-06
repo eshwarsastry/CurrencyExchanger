@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CurrencyExchanger": {
+      "commandName": "Project",
+      "commandLineArgs": "EUR/DKK 1"
+    }
+  }
+}
