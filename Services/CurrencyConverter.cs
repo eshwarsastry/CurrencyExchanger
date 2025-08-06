@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-namespace CurrencyExchanger.Services
+﻿namespace CurrencyExchanger.Services
 {
     public interface ICurrencyConverter
     {
